@@ -1,8 +1,4 @@
-frutas = (
-    "laranja",
-    "pera",
-    "uva",
-)
+frutas = ("laranja","pera","uva",)
 print(frutas)
 
 letras = tuple("python")
